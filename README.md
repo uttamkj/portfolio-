@@ -1,6 +1,3 @@
-Absolutely — here’s a **professional, complete, and customizable README** for your **GitHub portfolio repo** (`uttamkj/portfolio`). You can copy-paste this into your README.md and then tweak the sections (links, skills, screenshots, projects, etc.) as needed.
-
----
 
 # 🧑‍💻 Uttam Kumar Jena – Portfolio
 
